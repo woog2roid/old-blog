@@ -3,8 +3,4 @@ title: "About"
 permalink: /about/
 layout: single
 ---
-## woog2roid's powerful blog
-고려대학교 컴퓨터학과 19 학번
-
-#### 운동을 좋아하는 컴맹
-##### 혼자 공부했던 것을 문서화해놓기 위한 개인 블로그입니다 :D
+*학부 전공 공부외의 혼자 공부한 지식들을 문서화시키기 위한 블로그입니다.*
