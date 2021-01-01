@@ -32,4 +32,3 @@ __학부에서의 전공 공부는 체계적으로 진행되는 것에 비해, �
 __[깃허브 레포지터리](https://github.com/woog2roid/woog2roid.github.io/tree/master/_posts)를 보고 참고한다면, 카테고리나 태그보다 더 큰 도움이 될 것이라 생각합니다.__
 
 (2021-01-01 추가)
-</details>
