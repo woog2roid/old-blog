@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Projects"
+    url: /categories/개발일지
   - title: "Categories"
     url: /categories/
   - title: "Tags"
