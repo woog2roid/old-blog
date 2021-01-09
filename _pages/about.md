@@ -12,9 +12,10 @@ __학부에서의 전공 공부는 체계적으로 진행되는 것에 비해, �
 그렇기에 대부분의 내용들은 전공강의 내용보다는, 전공 관련 서적을 정리하거나 관련 기술들에 대해 공부한 것들을 나중에 되돌아 볼 수 있도록 문서화하는 데에 그 목적이 있습니다. 또한, TIL나 개발일지 기록 등 지극히 개인적인 일지로 사용하는 데에 그 목적이 있습니다.
 
 -----
-__*+ 글의 분류는 카테고리나 태그보다는 [깃허브 저장소](https://github.com/woog2roid/woog2roid.github.io/tree/master/_posts)를 참고하는게 더 도움이 될 것입니다.*__
 <details>
-<summary>접기/펼치기</summary>
+<summary>
+<b><i>+ 글의 분류는 카테고리나 태그보다는   <a href="https://github.com/woog2roid/woog2roid.github.io/tree/master/_posts"> 깃허브 저장소</a>를 참고하는게 더 도움이 될 것입니다.</b></i>
+</summary>
 <div markdown = 1>
 
 이왕 만드는 블로그 깔끔하게 만들고 싶었기에, 카테고리, 태그와 관련하여 고민이 생겼습니다.  
