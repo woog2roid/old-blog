@@ -2,9 +2,11 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Projects"
-    url: /categories/개발일지
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "Projects"
+    url: /categories/개발일지
+  - title: "TILs"
+    url: /categories/TILs
