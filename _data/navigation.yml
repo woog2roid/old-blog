@@ -7,6 +7,6 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "Projects"
-    url: /categories/개발일지
-  - title: "TILs"
-    url: /categories/TILs
+    url: /categories/projects
+  - title: "TIL"
+    url: /categories/TIL
