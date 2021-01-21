@@ -17,7 +17,7 @@ __학부에서의 전공 공부는 체계적으로 진행되는 것에 비해, �
 
 <summary>
 
-<strong><em>+ 글의 분류는 카테고리나 태그보다는 <a href="https://github.com/woog2roid/woog2roid.github.io/tree/master/_posts"> 깃허브 저장소</a>를 참고하는게 더 도움이 될 것입니다. </em></strong>
+<strong><em>+ 글의 분류는 카테고리나 태그보다는 <a href="https://github.com/woog2roid/old-blog/tree/master/_posts"> 깃허브 저장소</a>를 참고하는게 더 도움이 될 것입니다. </em></strong>
 
 </summary>
 
@@ -32,7 +32,7 @@ __학부에서의 전공 공부는 체계적으로 진행되는 것에 비해, �
 
 자기만족을 위해 최대한 태그는 깔끔하게 쓰려는 노력은 하겠으나,  
 혹시 정말 만에하나라도 이 블로그를 참고할 일이 있는 사람이라면,  
-__[깃허브 레포지터리](https://github.com/woog2roid/woog2roid.github.io/tree/master/_posts)를 보고 참고한다면, 카테고리나 태그보다 더 큰 도움이 될 것이라 생각합니다.__
+__[깃허브 레포지터리](https://github.com/woog2roid/old-blog/tree/master/_posts)를 보고 참고한다면, 카테고리나 태그보다 더 큰 도움이 될 것이라 생각합니다.__
 
 </div>
 </details>
